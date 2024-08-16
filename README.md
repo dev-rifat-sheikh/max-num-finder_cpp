@@ -1,1 +1,2 @@
-# max-num-finder_cpp
+# Maximum number finder program using C++
+Author <i>-Rifat Sheikh
